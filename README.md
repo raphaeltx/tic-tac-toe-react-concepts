@@ -1,4 +1,4 @@
-# Desription
+## Desription
 
 A Tic Tac Toe game to practice concepts from React with Typescript. Such as components, states, tsx files and events.
 
@@ -26,4 +26,4 @@ It's a simple Tic Tac Toe game. The players can edit their names and at the end 
 
 Every play is logged above the game board.
 
-HAVE FUN !!!
+# HAVE FUN !!!
